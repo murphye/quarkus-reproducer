@@ -1,0 +1,1 @@
+INSERT INTO tenant (id, name, web_domain, date_created, last_modified) VALUES (0, 'Quarkus', 'quarkus.io', now(), now());
